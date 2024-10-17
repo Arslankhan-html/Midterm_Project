@@ -1,0 +1,24 @@
+[{ "name": "Memorial Union",
+    "img": "Location_images\\MU.jpg", 
+    "description": "", 
+    "minidescription": ""
+
+}, 
+{ "name": "The Camponile",
+    "img": "Location_images\\Camponile.jpg", 
+    "description": "", 
+    "minidescription": ""
+
+}, 
+{ "name": "Jack Trice Stadium ",
+    "img": "Location_images\\JackTrice.jpg", 
+    "description": "", 
+    "minidescription": ""
+
+}, 
+{ "name": "Union Drive Community Center",
+    "img": "Location_images\\UDM.jpg", 
+    "description": "", 
+    "minidescription": ""
+
+} ]
