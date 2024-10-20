@@ -29,6 +29,9 @@ function changeRight(id) {
                 document.getElementById("eventid" + id).classList.add("current");
                 let right = document.getElementById("rightpanel");
                 right.innerHTML = "";
+                image = document.createElement("img");
+                image.setAttribute("src", node["img"]);
+                right.appendChild(image);
                 right.appendChild(text("h1", node["name"]));
                 right.appendChild(text("h2", node["date"]));
                 let time = node["starttime"];

@@ -2,6 +2,7 @@
     {
       "id": 1,
       "name": "Soccer vs. TCU",
+      "img": "event_images/soccer.png",
       "date": "Oct 20, 2024",
       "starttime": "1:00 PM",
       "endtime": "3:00 PM",
@@ -12,6 +13,7 @@
     {
       "id": 2,
       "name": "Document - Story - Expression",
+      "img": "event_images/documentstoryexpression.png",
       "date": "Oct 20, 2024",
       "starttime": "2:00 PM",
       "endtime": "3:00 PM",
@@ -20,18 +22,9 @@
       "description": "Architect and Architectural Photographer Cameron Campbell will present architectural photography and the balance of capturing the feel and sprit of space along with illustrating the concept of the design - and doing so with the accuracy and rigor of technical photography."
     },
     {
-      "id": 3,
-      "name": "Concert: ISU Symphony Orchestra",
-      "date": "Oct 20, 2024",
-      "starttime": "3:00 PM",
-      "endtime": "",
-      "location": "Tye Recital Hall, 0140 Simon Estes Music Hall",
-      "cost": "$5",
-      "description": "A full-size orchestra led by distinguished faculty, performing major symphonic, choral and operatic repertoire. This premiere ensemble is drawn entirely from the student body, and proudly includes representation from across the colleges."
-    },
-    {
       "id": 4,
       "name": "Shrek the Musical",
+      "img": "event_images/shrek.png",
       "date": "Oct 20, 2024",
       "starttime": "6:00 PM",
       "endtime": "",
@@ -40,18 +33,9 @@
       "description": "An unlikely hero finds himself on a life-changing journey alongside a wisecracking Donkey and a feisty princess who resists her rescue. Yes, your favorite ogre is back in the hilarious stage spectacle based on the Oscar-winning DreamWorks animated film."
     },
     {
-      "id": 5,
-      "name": "Cyclone Cinema: A Quiet Place: Day One",
-      "date": "Oct 20, 2024",
-      "starttime": "7:00 PM",
-      "endtime": "",
-      "location": "Carver 101",
-      "cost": "",
-      "description": "Cyclone Cinema is presented by the Student Union Board and showcases a variety of film genres, screening a different movie every weekend Thursday - Sunday during the semester. Sunday film screenings are in open caption format. All other screenings can be open caption as well, as long as the request is made to the staff prior to the movie starting."
-    },
-    {
       "id": 6,
       "name": "Campus Sustainability Month Celebration",
+      "img": "event_images/reducereuserecycle.png",
       "date": "Oct 21, 2024",
       "starttime": "10:00 AM",
       "endtime": "2:00 PM",
@@ -60,48 +44,9 @@
       "description": "Hosted by the Office of Sustainability, an event of the Live Green! Initiative. Sustainability-minded student organizations, campus groups and community businesses will highlight their activities, initiatives and products. Take advantage of free bike tune-ups, enjoy fall-inspired refreshments and earn green-minded prizes!"
     },
     {
-      "id": 7,
-      "name": "Leaders Workshop Series: How to Start a Student Organization",
-      "date": "Oct 21, 2024",
-      "starttime": "3:00 PM",
-      "endtime": "4:00 PM",
-      "location": "MU 2630",
-      "cost": "",
-      "description": "During these workshops, you will have the opportunity to engage in activities and discussions that will help you grow as a leader, add to your toolbox of leadership skills, and leave with the confidence to empower others to do the same."
-    },
-    {
-      "id": 8,
-      "name": "Workshop: Git basics for absolute beginners",
-      "date": "Oct 22, 2024",
-      "starttime": "11:00 AM",
-      "endtime": "12:30 PM",
-      "location": "199 Parks Library, The Catalyst",
-      "cost": "",
-      "description": "Git is a version control system: it tracks and manages changes to your files over time and allows you to include explanations for each change. This workshop will introduce you to how it works, its benefits, and how to get started. This workshop is for anyone that works with plain text data and code but requires no prior knowledge of Git. You will need a Windows, Mac, or Linux computer to participate. Registration required."
-    },
-    {
-      "id": 9,
-      "name": "Agriculture in Context: The 1930s and the \"Fountain of the Four Seasons",
-      "date": "Oct 22, 2024",
-      "starttime": "5:30 PM",
-      "endtime": "6:30 PM",
-      "location": "Christian Petersen Art Museum, 1017 Morrill Hall",
-      "cost": "",
-      "description": "Dr. Pamela Riney Kehrberg, Professor of History, Iowa State Univ., will discuss the historical agricultural context of the 1930s and 40s, during which Christian Petersen was creating the imagery for the \"Fountain of the Four Seasons\". Discover what farming practices were typical during that time and compare them to the depictions in the fountain as well as modern practices."
-    },
-    {
-      "id": 10,
-      "name": "Daymond John's 5 Shark Points: Fundamentals for Success in Business and Life",
-      "date": "Oct 22, 2024",
-      "starttime": "7:00 PM",
-      "endtime": "",
-      "location": "Great Hall, Memorial Union",
-      "cost": "",
-      "description": "An entrepreneur in every sense of the word, Daymond John has come a long way from taking out a $100,000 mortgage on his motherâ€™s house and moving his business operation into its basement. John is CEO and Founder of FUBU, a much-celebrated global lifestyle brand, and a pioneer in the fashion industry with over $6 billion in product sales world-wide. Former President Barack Obama appointed Daymond John a Presidential Ambassador for Global..."
-    },
-    {
       "id": 11,
       "name": "Green Dot lunch and learn",
+      "img": "event_images/reducereuserecycle.png",
       "date": "Oct 23, 2024",
       "starttime": "10:30 AM",
       "endtime": "1:00 PM",
@@ -110,18 +55,9 @@
       "description": "ISU student health and wellness will present a two-part lunch and learn as part of Green Dot action month: \"Green Flags\" (10:30-11:45 a.m.) and \"Green Dot\" (noon-1 p.m.). Refreshments and lunch will be provided. Registration requested."
     },
     {
-      "id": 12,
-      "name": "Iowa Regents Disability Summit",
-      "date": "Oct 24, 2024",
-      "starttime": "9:00 AM",
-      "endtime": "5:00 PM",
-      "location": "Memorial Union",
-      "cost": "",
-      "description": "The annual summit is dedicated to enhancing awareness and addressing issues related to disability and higher education across Iowa's public university campuses and the broader community."
-    },
-    {
       "id": 13,
       "name": "Pop-Up: Dress for Confidence",
+      "img": "event_images/dress.png",
       "date": "Oct 24, 2024",
       "starttime": "10:00 AM",
       "endtime": "12:00 PM",
