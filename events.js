@@ -10,9 +10,12 @@ function generateCatagories(data) {
     }
     return ret;
 }
-function text(tag, body) {
+function text(tag, body, additionalAttributes) {
     let ele = document.createElement(tag);
     ele.innerHTML = body;
+    if (additionalAttributes != undefined) {
+        additionalAttributes(ele);
+    }
     return ele;
 }
 function changeRight(id) {
@@ -29,8 +32,16 @@ function changeRight(id) {
                 document.getElementById("eventid" + id).classList.add("current");
                 let right = document.getElementById("rightpanel");
                 right.innerHTML = "";
-                image = document.createElement("img");
-                image.setAttribute("src", node["img"]);
+                /*
+                EXAMPLE OF ARROW FUNCTION BELOW
+
+                */
+                addSrc = (a) => a.setAttribute("src", node["img"]);
+
+                /*
+                EXAMPLE OF CALLBACK FUNCTION BELOW
+                */
+                image = text("img", "", addSrc, node["image"]);
                 right.appendChild(image);
                 right.appendChild(text("h1", node["name"]));
                 right.appendChild(text("h2", node["date"]));
@@ -64,7 +75,9 @@ function generateCard(event) {
     }
     return crd;
 }
-
+/*
+EXAMPLE OF FETCH
+*/
 function fetchData() {
     fetch('./events.json')
     .then(function (response) {
