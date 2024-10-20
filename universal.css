@@ -26,6 +26,8 @@
 .Tabs{
     list-style: none;
     align-items: center;
+    padding: 5px;
+    
 
 }
 
@@ -40,11 +42,11 @@
     display: inline-block;
     color: #f0f0f0;
     font-size: 20px;
-    padding: 0px 100px;
+    padding: 0px 30px;
 
 }
 .Tabs li a:hover{
-    color: #16a0df;
+    color: darkgoldenrod;
 }
 
 /*Other bits and pieces*/
