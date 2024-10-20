@@ -1,0 +1,41 @@
+.eventcard {
+    padding: 5px;
+    margin: 10px;
+    padding-left: 5%;
+    background-color:grey;
+}
+.cols {
+    margin: 20px;
+}
+.current {
+    background-color: green;
+}
+#leftpanel {
+    width: 60%;
+    background-color: red;
+
+}
+#rightpanel {
+    width: 30%;
+    background-color: white;
+    position: sticky;
+    top: 20px;
+    height: 80vh;
+
+    h1 {
+        font-size: 28px;
+    }
+    h2 {
+        font-size:  20px;
+    }
+
+    
+}
+
+#maincontent {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
